@@ -1,4 +1,4 @@
-# Let's Get Started
+# Lecture 1 - Variables
 
 ---
 
@@ -17,7 +17,7 @@
 ![](assets/img/presentation.png)
 @snapend
 
----?color=#E58537
+---?color=#6497ED
 @title[Add A Little Imagination]
 
 @snap[north-west]
